@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cart {
+  background-color: #7fccff;
+  border-radius: 25px 0 25px;
+  margin-right: 10px;
+}
+.cart h3,
+h6 {
+  color: rgb(63, 33, 22);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.row {
+  --bs-gutter-x: 0 !important;
+}
+.card-border {
+  border: 1px solid #06adfa;
+  border-radius: 5px;
+}
+
+ul {
+  list-style: none;
+}

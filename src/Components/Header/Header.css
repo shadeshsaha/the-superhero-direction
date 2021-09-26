@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(127, 172, 255);
+  padding: 2rem;
+}
+.header h1 {
+  color: rgb(15, 5, 1);
+  font-weight: 700;
+}
+p {
+  padding: 0.8rem;
+}
+span {
+  font-size: 35px;
+  padding: 5px;
+  color: rgb(226, 12, 83);
+}
